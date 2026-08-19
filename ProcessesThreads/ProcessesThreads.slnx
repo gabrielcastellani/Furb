@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Asynchronous/Asynchronous.csproj" />
+  <Project Path="ByConnection/ByConnection.csproj" />
+  <Project Path="Interative/Interative.csproj" />
+</Solution>
